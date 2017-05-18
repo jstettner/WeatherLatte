@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ApiTester extends WeatherLatte {
+public class ApiImplementation extends WeatherLatte {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
